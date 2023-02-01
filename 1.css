@@ -1,0 +1,508 @@
+
+   #a1c2:hover{
+    background-color: aquamarine;
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(180deg);
+   }
+   
+   #a1c4:hover{
+    background-color: rgb(127, 178, 255);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(180deg);
+   }
+    #a1c6:hover{
+        background-color: rgb(255, 127, 191);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+
+       #a1c8:hover{
+        background-color: aquamarine;
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+
+       #a2c1:hover{
+        background-color: rgb(255, 127, 138);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+        #a2c3:hover{
+        background-color: rgb(255, 236, 127);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+       #a2c5:hover{
+        background-color: rgb(255, 161, 127);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+       #a2c7:hover{
+        background-color: rgb(242, 127, 255);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+
+   #a3c2:hover{
+    background-color: rgb(234, 127, 255);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+    #a3c4:hover{
+    background-color: rgb(35, 118, 90);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+    #a3c6:hover{
+    background-color: aquamarine;
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+    #a3c8:hover{
+    background-color: rgb(255, 251, 127);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   } #a4c1:hover{
+    background-color: rgb(255, 127, 242);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+    #a4c3:hover{
+    background-color: rgb(255, 176, 127);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+    #a4c5:hover{
+        background-color: rgb(18, 209, 145);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+       #a4c7:hover{
+        background-color: rgb(133, 127, 255);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       } 
+   #a5c2:hover{
+    background-color: rgb(212, 127, 255);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+   #a5c4:hover{
+    background-color: rgb(255, 127, 206);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+   #a5c6:hover{
+    background-color: rgb(157, 255, 127);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+   #a5c8:hover{
+    background-color: rgb(255, 187, 127);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+    #a6c1:hover{
+        background-color: rgb(255, 127, 234);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+        #a6c3:hover{
+            background-color: rgb(255, 127, 127);
+            box-shadow: 5px 10px 5px blue;
+            transition: 2s;
+            transform: scale(3, 3);
+            transform: rotate(360deg);
+           }
+            #a6c5:hover{
+                background-color: rgb(127, 255, 176);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+                #a6c7:hover{
+                    background-color: rgb(255, 127, 253);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   } 
+   #a7c2:hover{
+    background-color: rgb(180, 255, 127);
+    box-shadow: 5px 10px 5px blue;
+    transition: 2s;
+    transform: scale(3, 3);
+    transform: rotate(360deg);
+   }
+    #a7c4:hover{
+        background-color: rgb(49, 2, 96);
+        box-shadow: 5px 10px 5px blue;
+        transition: 2s;
+        transform: scale(3, 3);
+        transform: rotate(360deg);
+       }
+        #a7c6:hover{
+            background-color: rgb(163, 127, 255);
+            box-shadow: 5px 10px 5px blue;
+            transition: 2s;
+            transform: scale(3, 3);
+            transform: rotate(360deg);
+           } 
+           #a7c8:hover{
+            background-color: rgb(217, 255, 127);
+            box-shadow: 10px 10px 10px blue;
+            transition: 2s;
+            transform: scale(3, 3);
+            transform: rotate(360deg);
+           } 
+           #a8c1:hover{
+            background-color: rgb(142, 127, 255);
+            box-shadow: 5px 10px 5px blue;
+            transition: 2s;
+            transform: scale(3, 3);
+            transform: rotate(360deg);
+           } 
+           #a8c3:hover{
+            background-color: rgb(255, 127, 136);
+            box-shadow: 5px 10px 5px blue;
+            transition: 2s;
+            transform: scale(3, 3);
+            transform: rotate(360deg);
+           }
+            #a8c5:hover{
+                background-color: rgb(255, 127, 212);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+                
+               } 
+               #a8c7:hover{
+                background-color: rgb(13, 188, 129);
+                box-shadow: 10px 10px 10px blue;
+                transition: 2s;
+                transform: scale(2, 2);
+                
+               }
+               #a1c1:hover {
+                background-color: rgb(255, 127, 136);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+               #a1c3:hover{
+                background-color: rgb(255, 127, 136);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               } 
+               #a1c5:hover{
+                background-color: rgb(255, 127, 136);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+                #a1c7:hover{
+                    background-color: rgb(255, 127, 136);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   }
+                    #a2c2:hover{
+                        background-color: rgb(255, 127, 136);
+                        box-shadow: 5px 10px 5px blue;
+                        transition: 2s;
+                        transform: scale(3, 3);
+                        transform: rotate(360deg);
+                       }
+                        #a2c4:hover{
+                            background-color: rgb(255, 127, 136);
+                            box-shadow: 5px 10px 5px blue;
+                            transition: 2s;
+                            transform: scale(3, 3);
+                            transform: rotate(360deg);
+                           }
+                            #a2c6:hover{
+                                background-color: rgb(255, 127, 136);
+                                box-shadow: 5px 10px 5px blue;
+                                transition: 2s;
+                                transform: scale(3, 3);
+                                transform: rotate(360deg);
+                               }
+                                #a2c8:hover{
+                                    background-color: rgb(255, 127, 136);
+                                    box-shadow: 5px 10px 5px blue;
+                                    transition: 2s;
+                                    transform: scale(3, 3);
+                                    transform: rotate(360deg);
+                                   }
+               #a1c1:hover{
+                background-color: rgb(255, 127, 136);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+                #a1c3:hover{
+                    background-color: rgb(255, 127, 136);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   }
+                    #a1c5:hover{
+                        background-color: rgb(255, 127, 136);
+                        box-shadow: 5px 10px 5px blue;
+                        transition: 2s;
+                        transform: scale(3, 3);
+                        transform: rotate(360deg);
+                       }
+                        #a1c7:hover{
+                            background-color: rgb(255, 127, 136);
+                            box-shadow: 5px 10px 5px blue;
+                            transition: 2s;
+                            transform: scale(3, 3);
+                            transform: rotate(360deg);
+                           }
+                            #a2c2:hover{
+                                background-color: rgb(255, 127, 136);
+                                box-shadow: 5px 10px 5px blue;
+                                transition: 2s;
+                                transform: scale(3, 3);
+                                transform: rotate(360deg);
+                               }
+                                #a2c4:hover{
+                                    background-color: rgb(255, 127, 136);
+                                    box-shadow: 5px 10px 5px blue;
+                                    transition: 2s;
+                                    transform: scale(3, 3);
+                                    transform: rotate(360deg);
+                                   }
+                                    #a2c6:hover{
+                                        background-color: rgb(255, 127, 136);
+                                        box-shadow: 5px 10px 5px blue;
+                                        transition: 2s;
+                                        transform: scale(3, 3);
+                                        transform: rotate(360deg);
+                                       }
+                                        #a2c8:hover{
+                                            background-color: rgb(255, 127, 136);
+                                            box-shadow: 5px 10px 5px blue;
+                                            transition: 2s;
+                                            transform: scale(3, 3);
+                                            transform: rotate(360deg);
+                                           }
+               #a3c1:hover{
+                background-color: rgb(255, 127, 136);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+                #a3c3:hover{
+                    background-color: rgb(52, 197, 16);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   }
+                    #a3c5:hover{
+                        background-color: rgb(39, 32, 189);
+                        box-shadow: 5px 10px 5px blue;
+                        transition: 2s;
+                        transform: scale(3, 3);
+                        transform: rotate(360deg);
+                       }
+                        #a3c7:hover{
+                            background-color: rgb(255, 127, 136);
+                            box-shadow: 5px 10px 5px blue;
+                            transition: 2s;
+                            transform: scale(3, 3);
+                            transform: rotate(360deg);
+                           }
+                            #a4c2:hover{
+                                background-color: rgb(107, 5, 34);
+                                box-shadow: 5px 10px 5px blue;
+                                transition: 2s;
+                                transform: scale(3, 3);
+                                transform: rotate(360deg);
+                               }
+                                #a4c4:hover{
+                                    background-color: rgb(22, 153, 196);
+                                    box-shadow: 5px 10px 5px blue;
+                                    transition: 2s;
+                                    transform: scale(3, 3);
+                                    transform: rotate(360deg);
+                                   }
+                                    #a4c6:hover{
+                                        background-color: rgb(19, 172, 24);
+                                        box-shadow: 5px 10px 5px blue;
+                                        transition: 2s;
+                                        transform: scale(3, 3);
+                                        transform: rotate(360deg);
+                                       }
+                                        #a4c8:hover{
+                                            background-color: rgb(158, 7, 148);
+                                            box-shadow: 5px 10px 5px blue;
+                                            transition: 2s;
+                                            transform: scale(3, 3);
+                                            transform: rotate(360deg);
+                                           } 
+               #a5c1:hover{
+                background-color: rgb(31, 15, 168);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               } #a5c3:hover{
+                background-color: rgb(47, 198, 24);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               } 
+               #a5c5:hover{
+                background-color: rgb(149, 40, 105);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+               #a5c7:hover{
+                background-color: rgb(22, 22, 139);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+                }
+                #a6c2:hover{
+                    background-color: rgb(39, 179, 79);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   }
+                   #a6c4:hover{
+                    background-color: rgb(174, 36, 45);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   }
+                    #a6c6:hover{
+                        background-color: rgb(127, 255, 178);
+                        box-shadow: 5px 10px 5px blue;
+                        transition: 2s;
+                        transform: scale(3, 3);
+                        transform: rotate(360deg);
+                       } 
+                       #a6c8:hover{
+                        background-color: rgb(155, 127, 255);
+                        box-shadow: 5px 10px 5px blue;
+                        transition: 2s;
+                        transform: scale(3, 3);
+                        transform: rotate(360deg);
+                       } 
+               #a7c1:hover{
+                background-color: rgb(255, 127, 225);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               } 
+               #a7c3:hover{
+                background-color: rgb(255, 212, 127);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               } 
+               #a7c5:hover{
+                background-color: rgb(127, 255, 146);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+               #a7c7:hover{
+                background-color: rgb(146, 127, 255);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+               #a8c2:hover{
+                background-color: rgb(148, 255, 127);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+               #a8c4:hover{
+                background-color: rgb(157, 127, 255);
+                box-shadow: 5px 10px 5px blue;
+                transition: 2s;
+                transform: scale(3, 3);
+                transform: rotate(360deg);
+               }
+                #a8c6:hover{
+                    background-color: rgb(127, 255, 157);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   } 
+                   #a8c8:hover{
+                    background-color: rgb(113, 39, 44);
+                    box-shadow: 5px 10px 5px blue;
+                    transition: 2s;
+                    transform: scale(3, 3);
+                    transform: rotate(360deg);
+                   }
